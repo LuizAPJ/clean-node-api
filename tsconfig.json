@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "commonjs",
+    "target": "es2019",
+    "esModuleInterop": true, // faz um modulo que não intende import/export entender
+    "allowJs": true // permite arquivos de config no formato js
+  }
+}
